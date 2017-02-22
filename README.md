@@ -1,4 +1,6 @@
 # e-commerce app in React
+[CODE on branch master](https://github.com/paulawasylow/e-commerce-react-app/tree/master) 
+
 [DEMO](https://paulawasylow.github.io/e-commerce-react-app/)
 
 :point_right: **First page is default with app's name. To show app click on some menu link ( Home, Women, Men or Child )**
