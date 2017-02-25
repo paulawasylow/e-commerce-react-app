@@ -1,7 +1,7 @@
 # e-commerce app in React
 [DEMO](https://paulawasylow.github.io/e-commerce-react-app/)
 
-:point_right: **First page is default with app's name. To show app click on some menu link ( Home, Women, Men or Child )**
+:point_right: **First page is default with app's name. To show app click on some menu link ( Home, Women, Men or Child ) Data is fetched on route change, so first page is empty**
 
 ### Added features:
 
